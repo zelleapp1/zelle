@@ -4,3 +4,5 @@ Neil
 Talbot
 Cheyenne
 Tuilla
+Jared
+Solomon
