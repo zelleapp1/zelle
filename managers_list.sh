@@ -5,4 +5,3 @@ Talbot
 Cheyenne
 Tuilla
 Jared
-Solomon
