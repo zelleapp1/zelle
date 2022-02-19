@@ -5,3 +5,5 @@ Talbot
 Cheyenne
 Tuilla
 Jared
+Solomon
+Taylor
