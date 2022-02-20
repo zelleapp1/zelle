@@ -7,3 +7,5 @@ Tuilla
 Jared
 Solomon
 Taylor
+Satoshi
+class27
